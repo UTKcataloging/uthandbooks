@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">UThandbook_1903-04</identifier>
+   <titleInfo supplied="yes">
+      <title>Student handbook, University of Tennessee, 1903-1904</title>
+   </titleInfo>
+   <titleInfo>
+      <title>Tennessee Students' hand book 1903-1904, volume 12</title>
+   </titleInfo>
+   <originInfo>
+      <dateIssued>1903</dateIssued>
+      <dateIssued encoding="edtf">1903</dateIssued>
+      <publisher>American Y.M.C.A.</publisher>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <abstract>Handbook to help acquaint students with the customs and traditions of the university.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311807">handbooks</form>
+      <extent>72 pages</extent>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85028356">
+      <topic>College students</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2009120674">
+      <topic>College student orientation--Handbooks, manuals, etc.</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003887">
+      <topic>University of Tennessee (Knoxville campus)</topic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <classification authority="lcc">LD5298.3 .S8</classification>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>University of Tennessee Student Handbook</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright – United States</accessCondition>
+</mods>
