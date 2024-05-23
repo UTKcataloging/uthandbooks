@@ -21,7 +21,7 @@
    </originInfo>
    <abstract>Schedule of classes for students at the University of Tennessee.</abstract>
    <physicalDescription>
-      <form authority="aat" valueURI=""/>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311807">handbooks</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027339">schedules (time plans)</form>
       <extent>58 pages</extent>
    </physicalDescription>
